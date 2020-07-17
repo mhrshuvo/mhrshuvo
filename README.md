@@ -1,6 +1,6 @@
 ## Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhrshuvo)
  
- I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experienc (:star2:**UX**) research. User friendly wesite and app development is my work.
+ I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experience (:star2:**UX**) research. User friendly website and app development is my work.
 
  :star2:I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
  <hr>
