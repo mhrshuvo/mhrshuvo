@@ -7,10 +7,10 @@
 
 ## Languages... :mortar_board:
 <hr>
-<img src= "https://img.shields.io/static/v1?label=C&message= &color=#00FF00"> 
-<img src= "https://img.shields.io/static/v1?label=C++&message= &color=#00FF00"> 
-<img src= "https://img.shields.io/static/v1?label=Java&message= &color=#00FF00"> 
-<img src= "https://img.shields.io/static/v1?label=Javascript&message= &color=#00FF00">
+<img src= "https://img.shields.io/static/v1?label=C&message=%20&color=success"> 
+<img src= "https://img.shields.io/static/v1?label=C%2B%2B&message=%20&color=success"> 
+<img src= "https://img.shields.io/static/v1?label=Java&message=%20&color=success"> 
+<img src= "https://img.shields.io/static/v1?label=JavaScript&message=%20&color=success">
 
 <hr>
 
@@ -20,7 +20,7 @@
 <img src= "https://img.shields.io/static/v1?label=CSS&message=%20&color=success">
 <img src= "https://img.shields.io/static/v1?label=SCSS&message=%20&color=success">
 <img src= "https://img.shields.io/static/v1?label=XML&message=%20&color=success">
-<img src="https://img.shields.io/badge/Html--ff7851"
+<img src="https://img.shields.io/badge/Html--ff7851">
 <hr>
 
 ## Tools I used... :electric_plug:
