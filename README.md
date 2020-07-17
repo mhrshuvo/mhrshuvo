@@ -1,4 +1,4 @@
-## Hi there 👋 [![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)](http://hits.dwyl.com/mhrshuvo/mhrshuvo)
+## Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhrshuvo)
  
  I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experienc (:star2:**UX**) research. User friendly wesite and app development is my work.
 
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 
 
 
+![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhrshuvo)
+
 
