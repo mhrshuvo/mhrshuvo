@@ -1,10 +1,34 @@
 ## Hi there 👋
-
- I enjoy doing :star: **Web** :star: and :star: **Mobile APP** :star: interface (:star2:**UI**:star2:) design and passed more time in user experienc (:star2:**UX**:star2:) research. User friendly wesite and app development is my work.
+ 
+ I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experienc (:star2:**UX**) research. User friendly wesite and app development is my work.
 
  :star2:I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
+ <hr>
+
+## Languages... :mortar_board:
+<hr>
+<img src= "https://img.shields.io/static/v1?label=C&message= &color=#00FF00"> 
+<img src= "https://img.shields.io/static/v1?label=C++&message= &color=#00FF00"> 
+<img src= "https://img.shields.io/static/v1?label=Java&message= &color=#00FF00"> 
+<img src= "https://img.shields.io/static/v1?label=Javascript&message= &color=#00FF00">
+
+<hr>
+
+## Markup languages... :mortar_board:
+<hr/>
+<img src= "https://img.shields.io/static/v1?label=HTML&message= &color=#00FF00">
+<img src= "https://img.shields.io/static/v1?label=CSS&message= &color=#00FF00">
+<img src= "https://img.shields.io/static/v1?label=SCSS&message= &color=#00FF00">
+<img src= "https://img.shields.io/static/v1?label=XML&message= &color=#00FF00">
+<hr>
+
+## Tools I used... :electric_plug:
+<hr>
 
 
+|  |  |  |
+|---|---|---|
+|  |  | |
 
 
 Here are some ideas to get you started:
@@ -20,4 +44,5 @@ Here are some ideas to get you started:
 - :pensive:
 
 [![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)](http://hits.dwyl.com/mhrshuvo/mhrshuvo)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mhrshuvo.visitor-badge)](https://github.com/mhrshuvo)
 
