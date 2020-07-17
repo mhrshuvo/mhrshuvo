@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-<!--
-**mhrshuvo/mhrshuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+I enjoy doing **Web** and **Mobile APP** interface (**UI**) design and passed more time in user experienc (**UX**) research. User friendly wesite and app development is my work.
+
+I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
+
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
+
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fmhrshuvo">
 
 Here are some ideas to get you started:
 
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
