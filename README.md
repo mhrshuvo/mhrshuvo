@@ -16,10 +16,10 @@
 
 ## Markup languages... :mortar_board:
 <hr/>
-<img src= "https://img.shields.io/static/v1?label=HTML&message= &color=#00FF00">
-<img src= "https://img.shields.io/static/v1?label=CSS&message= &color=#00FF00">
-<img src= "https://img.shields.io/static/v1?label=SCSS&message= &color=#00FF00">
-<img src= "https://img.shields.io/static/v1?label=XML&message= &color=#00FF00">
+<img src= "https://img.shields.io/static/v1?label=HTML&message=%20&color=success">
+<img src= "https://img.shields.io/static/v1?label=CSS&message=%20&color=success">
+<img src= "https://img.shields.io/static/v1?label=SCSS&message=%20&color=success">
+<img src= "https://img.shields.io/static/v1?label=XML&message=%20&color=success">
 <hr>
 
 ## Tools I used... :electric_plug:
