@@ -1,8 +1,9 @@
 ## Hi there 👋
 
- I enjoy doing **Web** and **Mobile APP** interface (**UI**) design and passed more time in user experienc (**UX**) research. User friendly wesite and app development is my work.
+ I enjoy doing :star: **Web** :star: and :star: **Mobile APP** :star: interface (:star2:**UI**:star2:) design and passed more time in user experienc (:star2:**UX**:star2:) research. User friendly wesite and app development is my work.
 
- I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
+ :star2:I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
+
 
 
 
@@ -16,6 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :pensive:
 
 [![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)](http://hits.dwyl.com/mhrshuvo/mhrshuvo)
 
