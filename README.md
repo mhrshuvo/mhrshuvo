@@ -17,11 +17,12 @@
 
 ## Markup languages... :mortar_board:
 <hr/>
+<div>
 <img src= "https://img.shields.io/static/v1?label=HTML&message=%20&color=success">
 <img src= "https://img.shields.io/static/v1?label=CSS&message=%20&color=success">
 <img src= "https://img.shields.io/static/v1?label=SCSS&message=%20&color=success">
 <img src= "https://img.shields.io/static/v1?label=XML&message=%20&color=success">
-<img src="https://img.shields.io/badge/Html--ff7851">
+</div>
 <hr>
 
 ## Tools I used... :electric_plug:
