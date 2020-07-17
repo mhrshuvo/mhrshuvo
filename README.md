@@ -3,10 +3,10 @@
  I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experience (:star2:**UX**) research. User friendly website and app development is my work.
 
  :star2:I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
- <hr>
+
 
 ## Languages... :mortar_board:
-<hr>
+
 <div>
 <img src= "https://img.shields.io/static/v1?label=C&message=%20&color=success"> 
 <img src= "https://img.shields.io/static/v1?label=C%2B%2B&message=%20&color=success"> 
@@ -16,7 +16,7 @@
 <hr>
 
 ## Markup languages... :mortar_board:
-<hr/>
+
 <div>
 <img src= "https://img.shields.io/static/v1?label=HTML&message=%20&color=success">
 <img src= "https://img.shields.io/static/v1?label=CSS&message=%20&color=success">
@@ -25,8 +25,7 @@
 </div>
 <hr>
 
-## Tools I used... :electric_plug:
-<hr>
+## Tools I use... :electric_plug:
 
 
 |  |  |  |
@@ -34,7 +33,7 @@
 |  |  | |
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- :pensive:
+
 
 
 
