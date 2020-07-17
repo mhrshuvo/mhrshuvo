@@ -1,10 +1,8 @@
-# Hi there 👋
-<img src="resource/sv.jpeg">
+## Hi there 👋
 
+ I enjoy doing **Web** and **Mobile APP** interface (**UI**) design and passed more time in user experienc (**UX**) research. User friendly wesite and app development is my work.
 
-### I enjoy doing **Web** and **Mobile APP** interface (**UI**) design and passed more time in user experienc (**UX**) research. User friendly wesite and app development is my work.
-
-### I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
+ I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
 
 
 
@@ -19,4 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)](http://hits.dwyl.com/mhrshuvo/mhrshuvo)
 
