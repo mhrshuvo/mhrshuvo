@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 [![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)](http://hits.dwyl.com/mhrshuvo/mhrshuvo) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=mhrshuvo.visitor-badge)](https://github.com/mhrshuvo)
+
  
  I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experienc (:star2:**UX**) research. User friendly wesite and app development is my work.
 
@@ -46,6 +47,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - :pensive:
 
-[![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)](http://hits.dwyl.com/mhrshuvo/mhrshuvo)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mhrshuvo.visitor-badge)](https://github.com/mhrshuvo)
+
 
