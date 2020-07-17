@@ -47,5 +47,7 @@ Here are some ideas to get you started:
 - :pensive:
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=mhrshuvo.visitor-badge)](https://github.com/mhrshuvo)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhrshuvo)
 
