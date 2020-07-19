@@ -50,4 +50,7 @@
 ![HitCount](http://hits.dwyl.com/mhrshuvo/mhrshuvo.svg)
 
 
+![nc 002](https://user-images.githubusercontent.com/57192512/87865987-79478480-c99d-11ea-9b0f-7ce4ad79a68f.png)
+
+
 
