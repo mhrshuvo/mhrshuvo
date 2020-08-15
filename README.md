@@ -44,7 +44,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?mhrshuvo" frameborder="0"></iframe>
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhrshuvo&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mhrshuvo&theme=default" /></td>
+  </tr>   
+</table>
+</center>
 
 
 
