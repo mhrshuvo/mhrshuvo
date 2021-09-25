@@ -1,10 +1,12 @@
 ## Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhrshuvo)
+
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif" width="500" height="320" />
  
  I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experience (:star2:**UX**) research. User friendly website and app development is my work.
 
  :star2:I also used to Develop my design and user flow in digital format which have nice relation with the **Search Engine**.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif" width="500" height="320" />
 
 ## Languages... :mortar_board:
 
