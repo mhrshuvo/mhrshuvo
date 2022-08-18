@@ -1,7 +1,7 @@
 ## Hi there 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mhrshuvo)
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/57192512/134780110-04530adc-28a0-4dc0-a68d-572ca03195a3.gif"  />
  
  I enjoy doing  **Web** :computer: and  **Mobile APP** :iphone: interface (:star2:**UI**) design and passed more time in user experience (:star2:**UX**) research. User friendly website and app development is my work.
 
